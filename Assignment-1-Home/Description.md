@@ -6,6 +6,6 @@ Note: The term ‘students’, will refer to university students, but can apply 
 
 [Existing Systems](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Description/Existing-Systems)
 
-Business Objectives
+[Business Objectives](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Description/Business-Objectives)
 
 Importance to Stakeholders
