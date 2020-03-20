@@ -15,10 +15,12 @@ Conclusions and similarities for views:
 * Useful and helpful feedback when wanted 
 * Explanations in student words and step by step solutions to answer questions
 
+![image](uploads/9f49dc33ac284a5fb968ec242d258444/image.png)
+
 As most university students shared the same views, I will use them as my personas. I will choose John and Jenny as my two main personas as they had the most relations to the views above. I have decided not to include the lecturer persona as the SQS is for the students. This should be referred back to, if a moderator/admin system is to be introduced/desired in the design.
 I created the ‘use case diagram’ by thinking about the uses that a typical university student would likely want from an SQS. This helped me to create some main tasks. I created the tasks, based on the ‘function/use’ that they are likely to do, not based on the technicality details. 
 I created tasks by comparing to other existing systems, and found their useful/common features:
 
 ![image](uploads/0067fe6d8ce3ec23c8ce84e182d8be51/image.png)
 
-![image](uploads/9f49dc33ac284a5fb968ec242d258444/image.png)
+
