@@ -1,7 +1,6 @@
-Please mark as **Reflection - 20, 25, 25, 30**
+**Please mark as Reflection - 20, 25, 25, 30**
 
-Description:
-
+Description: 
 Student Questioning System (SQS)
 
 This section will showcase existing solutions, explain business objectives for a solution and explain the importance of this system to stakeholders. 
