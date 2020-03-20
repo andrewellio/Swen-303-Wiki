@@ -9,3 +9,7 @@ Note: The term ‘students’, will refer to university students, but can apply 
 [Business Objectives](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Description/Business-Objectives)
 
 [Importance to Stakeholders](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Description/Importance-to-stakeholders)
+
+[Model Overview](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Description/Model-Overview)
+
+[Use Case Diagram](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Description/Use-Case-Diagram)
