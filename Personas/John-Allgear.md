@@ -1,4 +1,4 @@
-![image](uploads/83eab8106a1d7fef7d5a6074d6b929a1/image.png)
+![image](uploads/44f5845174b20284d55dd984923fb4c0/image.png)
 
 21 years old, John is a student at Victoria University of Wellington (VUW). He is in his 3rd year, studying towards a Bachelor of Engineering with Honours, majoring in Software Engineering. John likes to be proactive in his learning and understands course content by asking questions in lectures. John will be able to use the SQS for the time when he is not in lectures. At the end of each trimester, near examinations, John likes to study by practising past exam papers. John often finds getting answers and supporting feedback for these questions difficult and would much rather studying using an easier method, like an SQS. John prioritises studying his unfamiliar topics and likes to discuss these with his friends to get a better understanding.
 
