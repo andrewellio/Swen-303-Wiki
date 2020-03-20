@@ -1,0 +1,3 @@
+![image](uploads/398e0c8dee0036e21bcae5ed0bbe07a0/image.png)
+
+I have chosen John for Scenario 3 because his persona describes how he is likely to use an SQS near the exam period. Seeing how John will use an SQS will be beneficial in the design process for what John should expect and be able to do. On the other hand, how the system should interact to provide the appropriate interfaces to be able to run a test via ‘test myself’. The tests will likely take place near the end of the year, which is why this is listed as Scenario 3.
