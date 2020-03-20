@@ -1,0 +1,3 @@
+**Students** benefit in being able to use SQS’s, to design questions for themselves and others. The SQS is a valuable tool to help students succeed in their studies. The role reversal and creation of questions to be tested on, ensures that course material is learnt correctly. Students should be able to use a system that is user-oriented, with consideration regarding the design of the interface.
+
+**Universities** will see student’s confidence in course’s increase and will in turn show the perspective of how student’s interpret course material into questions. This gives course coordinator’s and lecturer’s insight, receiving valuable feedback and will help to clarify/change the course/structure. 
