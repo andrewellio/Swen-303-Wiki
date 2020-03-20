@@ -1,4 +1,4 @@
-**Peerwise** lets users create and answer questions about courses they are enrolled in. It features a basic main menu, which looks outdated and could be improved with some new modern interface elements. I like how with each question it has a score rating. The rating is based on the quality and accuracy, which is a key feature, useful for effective learning.
+**Peerwise** lets users create and answer questions about courses they are enrolled in. It features a basic main menu, which looks outdated and could be improved with some new modern interface elements. I like how with each question it has a score rating. The rating is based on the quality and accuracy, which is a key feature, useful for effective learning. https://peerwise.cs.auckland.ac.nz/docs/students/
 
 ![image](uploads/ccbf4229ab9b92bf6346c67feb1814e3/image.png)
 
