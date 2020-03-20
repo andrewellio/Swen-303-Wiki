@@ -14,9 +14,9 @@ Note: The term ‘students’, will refer to university students, but can apply 
 *  [Use Case Diagram](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Description/Use-Case-Diagram)
 
 Personas:
-*  [John Allgear](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Personas/John Allgear)
-*  [Jenny Ridge](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Personas/Jenny Ridge)
+*  [John Allgear](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Personas/John-Allgear)
+*  [Jenny Ridge](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Personas/Jenny-Ridge)
 
-[Scenarios](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Assignment-1-Home/Scenarios)
+Scenarios:
 
-[Reflections](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Assignment-1-Home/Reflections)
+Reflections:
