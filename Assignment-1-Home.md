@@ -18,5 +18,9 @@ Personas:
 *  [Jenny Ridge](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Personas/Jenny-Ridge)
 
 Scenarios:
+Each scenario will be an essential use case, based on the model overview, where the user will <<choose>> the SQS to perform and start an interaction. This will be portrayed by what the SQS essentially needs to do and to not focus on the technical aspects yet.
+*  [Scenario 1](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Scenarios/Scenario 1)
+*  [Scenario 2](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Scenarios/Scenario 2)
+*  [Scenario 3](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Scenarios/Scenario 3)
 
 Reflections:
