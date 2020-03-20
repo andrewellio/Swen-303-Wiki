@@ -1,6 +1,6 @@
-**Please mark as Reflection - 20, 25, 25, 30**
+*Please mark as Reflection - 20, 25, 25, 30*
 
-Description: 
+**Description:**
 
 Student Questioning System (SQS)
 
@@ -14,15 +14,17 @@ Note: The term ‘students’, will refer to university students, but can apply 
 *  [Model Overview](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Description/Model-Overview)
 *  [Use Case Diagram](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Description/Use-Case-Diagram)
 
-Personas:
+**Personas:**
 *  [John Allgear](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Personas/John-Allgear)
 *  [Jenny Ridge](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Personas/Jenny-Ridge)
 
-Scenarios:
+**Scenarios:**
 
 Each scenario will be an essential use case, based on the model overview, where the user will <<choose>> the SQS to perform and start an interaction. This will be portrayed by what the SQS essentially needs to do and to not focus on the technical aspects yet.
 *  [Scenario 1](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Scenarios/Scenario-1)
 *  [Scenario 2](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Scenarios/Scenario-2)
 *  [Scenario 3](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Scenarios/Scenario-3)
 
-Reflections:
+**Reflections:**
+*  [Persona Reflection](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Persona-Reflection)
+*  [Jenny Ridge](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Scenario-Reflection)
