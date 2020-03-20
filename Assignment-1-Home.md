@@ -27,4 +27,4 @@ Each scenario will be an essential use case, based on the model overview, where 
 
 **Reflections:**
 *  [Persona Reflection](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Persona-Reflection)
-*  [Jenny Ridge](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Scenario-Reflection)
+*  [Scenario Reflection](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Scenario-Reflection)
