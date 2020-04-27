@@ -8,15 +8,23 @@ This wiki will convey the proposed design and visual aspects for the SQS.
 
 [Assignment 1 Reference](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Assignment-1-Home)
 
-**Changes to Description:**
+**Changes from Assignment 1:**
 
-**Changes to Overview:**
+Description:
 
-**Changes to Personas:**
+Overview:
 
-**Changes to Scenarios:**
+Personas:
 
-***Design***
+Scenarios:
+
+**Design Contents**
+
+[Design Explanation, Context, and Reasoning](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Design Explanation)
+
+[Story Board)](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Story Board)
+
+[Designed Pages](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Designed Pages)
 
 
 **Reflections:**
