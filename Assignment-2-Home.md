@@ -9,15 +9,15 @@ This wiki will convey the proposed design and visual aspects for the SQS.
 
 [Assignment 1 Reference](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Assignment-1-Home)
 
-**Changes from Assignment 1:**
+## Changes from Assignment 1:**
 
-*  Description:
+Description:
 
-*  Overview:
+Overview:
 
-*  Personas:
+Personas:
 
-*  Scenarios:
+Scenarios:
 
 ## Design Contents:
 
