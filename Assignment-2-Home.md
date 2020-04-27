@@ -5,6 +5,7 @@
 Student Questioning System (SQS)
 
 This wiki will convey the proposed design and visual aspects for the SQS. 
+
 **Changes to Description:**
 
 **Changes to Personas:**
