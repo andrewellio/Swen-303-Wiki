@@ -22,7 +22,7 @@ Scenarios:
 
 [Design Explanation, Context, and Reasoning](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Design-Explanation)
 
-[Story Board)](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Story-Board)
+[Story Board](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Story-Board)
 
 [Designed Pages](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Designed-Pages)
 
