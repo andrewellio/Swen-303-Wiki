@@ -14,5 +14,5 @@ This wiki will convey the proposed design and visual aspects for the SQS.
 
 
 **Reflections:**
-*  [Design Reflection](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Persona-Reflection)
-*  [Changes Reflection](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Scenario-Reflection)
+*  [Design Reflection](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Design-Reflection)
+*  [Changes Reflection](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Changes-Reflection)
