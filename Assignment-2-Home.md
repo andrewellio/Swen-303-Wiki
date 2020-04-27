@@ -6,7 +6,7 @@ Student Questioning System (SQS)
 
 This wiki will convey the proposed design and visual aspects for the SQS. 
 
-[Assignment 1](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Assignment-1-Home)
+[Assignment 1 Reference](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Assignment-1-Home)
 
 **Changes to Description:**
 
