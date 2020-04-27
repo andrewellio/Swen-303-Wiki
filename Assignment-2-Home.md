@@ -1,15 +1,13 @@
 *Please mark as __________ - ##, ##, ##, ##
 * Note to self: also a link to mock-ups or click-throughs and adobe xd file via ecs submission and gitlab project upload commit
 
-**Introduction to Design:**
-
 Student Questioning System (SQS)
 
 This wiki will convey the proposed design and visual aspects for the SQS. 
 
-[Assignment 1 Reference](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Assignment-1-Home)
-
 ## Changes from Assignment 1:**
+
+[Assignment 1 Reference](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Assignment-1-Home)
 
 Description:
 
@@ -18,6 +16,8 @@ Overview:
 Personas:
 
 Scenarios:
+
+## Design Introduction:
 
 ## Design Contents:
 
