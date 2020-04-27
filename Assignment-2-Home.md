@@ -5,7 +5,7 @@ Student Questioning System (SQS)
 
 This wiki will convey the proposed design and visual aspects for the SQS. 
 
-## Changes from Assignment 1:**
+## Changes from Assignment 1:
 
 [Assignment 1 Reference](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Assignment-1-Home)
 
@@ -17,11 +17,9 @@ Personas:
 
 Scenarios:
 
-## Design Introduction:
-
 ## Design Contents:
 
-*  [Design Explanation, Context, and Reasoning](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Design-Explanation)
+*  [Design Introduction (Explanation, Context, and Reasoning)](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Design-Explanation)
 *  [Story Board](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Story-Board)
 *  [Designed Pages](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Designed-Pages)
 
