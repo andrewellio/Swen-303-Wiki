@@ -21,9 +21,7 @@ This wiki will convey the proposed design and visual aspects for the SQS.
 **Design Contents:**
 
 *  [Design Explanation, Context, and Reasoning](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Design-Explanation)
-
 *  [Story Board](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Story-Board)
-
 *  [Designed Pages](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Designed-Pages)
 
 
