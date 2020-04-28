@@ -12,4 +12,4 @@ Main features to improve on are:
 
 I will be re-designing the Peerwise website for laptop/desktops, suited for a web version. I believe this is the best approach design-wise and may encourage future development for an app version.
 
-In terms of layout, the website will conform to at least a 16:9 ration with a 1366x768 resolution (minimum).
+In terms of layout, the website will conform to at least a 16:9 ratio with a 1366x768 resolution (minimum).
