@@ -10,8 +10,6 @@ Main features to improve on are:
 *  Intuitive clickable icons/text (buttons that can be clicked)
 *  General interface update according to the main identifiable [tasks/scenarios](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Description/Use-Case-Diagram).
 
-*Explanation of Design*
+I will be re-designing the Peerwise website for laptop/desktops, suited for a web version. I believe this is the best approach design-wise and may encourage future development for an app version.
 
-*Context of use*
-
-*Reason of choice for the platform*
+In terms of layout, the website will conform to at least a 16:9 ration with a 1366x768 resolution (minimum).
