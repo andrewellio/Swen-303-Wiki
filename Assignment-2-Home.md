@@ -12,9 +12,11 @@ This wiki will convey the proposed design and visual aspects for the SQS.
 **Description:**
 
 UNCHANGED
+
 **Overview:**
 
 UNCHANGED
+
 **Personas:**
 
 *  John Allgear has an associated Student ID: 300400500
