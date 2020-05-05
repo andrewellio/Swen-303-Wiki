@@ -9,13 +9,24 @@ This wiki will convey the proposed design and visual aspects for the SQS.
 
 [Assignment 1 Reference](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Assignment-1-Home)
 
-Description:
+**Description:**
 
-Overview:
+UNCHANGED
+**Overview:**
 
-Personas:
+UNCHANGED
+**Personas:**
 
-Scenarios:
+*  John Allgear has an associated Student ID: 300400500
+*  Jenny Ridge has an associated Student ID: 333444555
+
+**Scenarios:**
+
+*  Each scenario remains the same, but an extra layer (between loading the SQS system and choosing an action) authentication will ask the student to log in or create an account first. This can be seen on the login design page.
+
+*  In addition, each login will require a student ID to be entered. So the student is no longer identified by just their name, but also by a student ID.
+
+*  For Scenario 2 (answering an unanswered question), the student should give a rating for the question asked. Scenario 3 (test myself) will also have the option to rate each question at the end of the test.
 
 ## Design Contents:
 
