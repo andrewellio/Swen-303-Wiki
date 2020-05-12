@@ -1,1 +1,1 @@
-a
+![Peerwise_Color_Palette](uploads/895ba6582e2781b1a4fcc434d0fe4651/Peerwise_Color_Palette.png)
