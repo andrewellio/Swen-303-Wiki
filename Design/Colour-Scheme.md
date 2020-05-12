@@ -1,1 +1,2 @@
+I have generated a colour palette similar to the existing blue scheme on the current website. The pages for Peerwise will primarily be 'Carolina blue' (5398BE) and 'Indigo dye' (134074). The other colors will be used as complementary colors to the existing two colors chosen.
 ![Peerwise_Color_Palette](uploads/895ba6582e2781b1a4fcc434d0fe4651/Peerwise_Color_Palette.png)
