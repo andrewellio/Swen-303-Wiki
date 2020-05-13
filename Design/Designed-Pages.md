@@ -36,7 +36,7 @@ Persona/s: [John Allgear](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wik
 
 I have chosen John as the persona for the Student Home as he will see this page every time he loads the Peerwise website (provided he has used the remember me option). He will use this page to create questions and view statistics about his questions asked. John will be expected to be returned to this page every time he has finished working on a question. 
 
-![Signup___Login](uploads/937b1090b8b29638d35201a7b151ea15/Signup___Login.png) 
+![Student_Home](uploads/4752a8cc60f60ce72ca00ec33dae4bf2/Student_Home.png)
 
 By completing the signup and/or logging in, there is redirection to the Student Home Page (the central landing page and dashboard for the student.) The page has several new elements available now that a student is logged in, such as the navigation bar in the top ribbon and the account status in the top right-hand corner (verification that student has logged in successfully). These elements are consistent across all pages unless they signout (brought back to homepage or signup/login in page). This page aims to feature the most important elements for a student being; List of assigned courses, student actions, and student stats. Other elements accompany the page; recently created questions and Peerwise news. Large shapes, buttons, and text help to highlight the fact that students can start an activity. Student actions also feature the uses cases for scenarios 1, 2, and 3. 
 
