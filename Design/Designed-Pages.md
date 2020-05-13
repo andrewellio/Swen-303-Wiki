@@ -74,6 +74,8 @@ By clicking on the answer a question button, there is redirection to the Answer 
 
 ### Test Myself Page and Test Results (3 pages)
 
+Note: 'test' and 'quiz' may be used to describe these pages but the words, even though different refer to the same idea.
+
 Persona/s: [Jenny Ridge](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Personas/Jenny-Ridge)
 
 [John Allgear](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Personas/John-Allgear)
@@ -89,3 +91,19 @@ I have chosen Jenny and John as the persona for Test Myself and viewing results.
 By clicking on the test myself button, there is redirection to the Test Myself page. Before the quiz can be accessed, one test requirement need to be asked. This is displayed by a prompt box. The quiz will then start with a random course (may be a randomly assigned course depending on the previous prompt selection). This quiz page features a progress bar and course progress layout. These two elements will change/progress as each question is answered. There is also extra options near the top right-hand corner to assist the student with slight quiz variations with regards to time and memorisation. The question and answers are listed in similar places as per create and answer question pages. The quiz may also be stopped or continued once an answer has been selected. The answer will identify itself as correct with a tick and display additonal explanation information. Optional help for this question may be available if a video is provided and is available for feedback (becomes available once the student clicks respective button.
 
 ![Test_Results](uploads/e9b24380e848a924832cd854b4e661fe/Test_Results.png)
+
+This page is shown by default after the quiz is stopped or completed. It lists an overview of each question, the answer, if the answer was correct, reasked if also incorrect (if the feature was enabled) and the course. From this page the student is also able to access past tests by using the left and right (previous and next test) buttons.The date will also convey how long ago the past tests were, and a time will automatically display if more than one test was taken on the same day. This length of this list will be large or small depending on the completion percentage of the test and the quiz options selected. Finally this page is also available in the navigation box, so it can be accessed without having to go through the process of the test first.
+
+### Questions View (3 pages)
+
+Persona/s: [Jenny Ridge](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Personas/Jenny-Ridge)
+
+I have chosen Jenny for these 3 question view pages as she will be able to get an idea of what sort of questions students find challenging. She will be able to take a note of some of these questions herself for studying, as well as helping to share solutions by filtering to the 'sort by unanswered' filter. This is beneficial as Jenny may rather want to observe questions, rather than to create questions.
+
+![Browse_Questions](uploads/3c51df92348ef8efd0c542ac32cd9a7e/Browse_Questions.png)
+
+![Browse_Questions__Sort_by_Unanswered_](uploads/926365eb22c09c9841d7a4fb0d547746/Browse_Questions__Sort_by_Unanswered_.png)
+
+![Browse_Questions__Sort_by_Answered_](uploads/f7d02a987024a11604c5af9ad1f5233d/Browse_Questions__Sort_by_Answered_.png)
+
+By clicking on the view all questions button, there is redirection to the View Questions page. This features three pages that can be filtered three different ways, according to the filter box near the top right hand corner. These are by rating, unanswered and answered. An overall checkbox is also available to only show questions from assigned courses. This checkbox is not a prompt this time because each time the page is filtered, the prompt would also appear each time (inconvenient to the student user). This page acts as a history page of questions, to indicate the current activity for questions being answered. This page can also be accessed more quickly by the 3 middle buttons on the navigation bar which also included all filtered options. The purpose of this page is to explore questions and to find any similar questions they may have been answered, before asking aa a new question.
