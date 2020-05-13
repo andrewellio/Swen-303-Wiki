@@ -70,4 +70,22 @@ I have chosen Jenny as the persona for answering a question, as Jenny usually li
 
 ![Answer_an_Unanswered_Question](uploads/5e892a0689fb84ac5fd4988a24a815a1/Answer_an_Unanswered_Question.png)
 
-By clicking on the answer a question button, there is redirection to the Unanswered an Unanswered Question page. Before the template can be accessed, two question answer requirements need to be asked. These are displayed by prompt boxes. These questions also aim to ask for the contextual answer to the question rather than a simple yes or no question. Once the template page appears only the left side panel is visible. The left panel features the text boxes required to fill in will be default grey out the question box itself and the question properties. Once all required text fields are filled in, the Answer question button changes from greyed out to available. This button can be pressed and the question and answer preview box starts loading as well as several progress information icons. 
+By clicking on the answer a question button, there is redirection to the Answer an Unanswered Question page. Before the template can be accessed, two question answer requirements need to be asked. These are displayed by prompt boxes. These questions also aim to ask for the contextual answer to the question rather than a simple yes or no question. Once the template page appears only the left side panel is visible. The left panel features the text boxes required to fill in. By default, the section will be greyed out is the question box and the question properties. Once all required text fields are filled in, the Answer question button changes from greyed out to available. This button can be pressed and the question and answer preview box starts loading as well as several progress information icons. 
+
+### Test Myself Page and Test Results (3 pages)
+
+Persona/s: [Jenny Ridge](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Personas/Jenny-Ridge)
+
+[John Allgear](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Personas/John-Allgear)
+
+Page features [Scenario 3](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Scenarios/Scenario-3)
+
+I have chosen Jenny and John as the persona for Test Myself and viewing results. John is likely to use Test Myself near the exam period at the end of the year, whereas Jenny may find viewing her test results more useful (to find out what questions she got wrong and to perhaps study them by other means) John is also expected to use this page as described per Scenario 3.
+
+![Test_Myself__1st_Prompt-_Courses_Assigned__](uploads/8c3b118617d5743ee48f90b03d024909/Test_Myself__1st_Prompt-_Courses_Assigned__.png)
+
+![Test_Myself](uploads/4fa45da6e309938f417303f295629943/Test_Myself.png)
+
+By clicking on the test myself button, there is redirection to the Test Myself page. Before the quiz can be accessed, one test requirement need to be asked. This is displayed by a prompt box. The quiz will then start with a random course (may be a randomly assigned course depending on the previous prompt selection). This quiz page features a progress bar and course progress layout. These two elements will change/progress as each question is answered. There is also extra options near the top right-hand corner to assist the student with slight quiz variations with regards to time and memorisation. The question and answers are listed in similar places as per create and answer question pages. The quiz may also be stopped or continued once an answer has been selected. The answer will identify itself as correct with a tick and display additonal explanation information. Optional help for this question may be available if a video is provided and is available for feedback (becomes available once the student clicks respective button.
+
+![Test_Results](uploads/e9b24380e848a924832cd854b4e661fe/Test_Results.png)
