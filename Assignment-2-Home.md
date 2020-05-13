@@ -21,7 +21,7 @@ UNCHANGED
 *  John Allgear has an associated Student ID: 300400500
 *  Jenny Ridge has an associated Student ID: 333444555
 
-**Scenarios:**
+**Scenarios:** (minor factors that are considered as additions to scenarios)
 
 *  Each scenario remains the same, but an extra layer (between loading the SQS system and choosing an action) authentication will ask the student to log in or create an account first. This can be seen on the login design page.
 
