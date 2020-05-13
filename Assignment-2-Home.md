@@ -1,5 +1,4 @@
-*Please mark as __________ - ##, ##, ##, ##
-* Note to self: also a link to mock-ups or click-throughs and adobe xd file via ecs submission and gitlab project upload commit
+*Please mark as indicated in the form for username: **andrewelli**
 
 Student Questioning System (SQS)
 
