@@ -40,3 +40,11 @@ UNCHANGED
 **Reflections:**
 *  [Design Reflection](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Design-Reflection)
 *  [Changes Reflection](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Changes-Reflection)
+
+PDF VERSION (INCLUDES NOTES)
+
+[PeerWise_Website_Design.pdf](uploads/7e7c73ad4005084b9ed1a99614a0d546/PeerWise_Website_Design.pdf)
+
+BALSAMIQ PROJECT FILE
+
+[Peerwise.bmpr](uploads/895b101dc6f06bd3b3d35f9e4ca74fb3/Peerwise.bmpr)
