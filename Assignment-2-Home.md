@@ -36,7 +36,6 @@ UNCHANGED
 *  [Story Board](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Design/Story-Board)
 
 **Reflections:**
-*  [Changes Reflection](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Changes-Reflection)
 *  [Design Reflection](https://gitlab.ecs.vuw.ac.nz/andrewelli/swen-303/-/wikis/Reflections/Design-Reflection)
 
 
