@@ -6,7 +6,7 @@ There are a total of 15 pages:
 
 **Common across all pages:**
 
-The separators help to separate elements into groups to be able to be readable and presented. The help button will feature a hover over question mark cursor, displaying help for the main buttons/actions.
+The separators help to separate elements into groups and improve readability. The help button will feature a hover over question mark cursor, displaying help for the main buttons/actions.
 
 ### Peerwise Home Page
 
@@ -16,7 +16,7 @@ I have chosen Jenny as the persona for the Peerwise homepage. Jenny will want to
 
 ![Home_Page](uploads/495900d0b4fb0eb308e8b22091e70ee2/Home_Page.png)
 
-This page is the default page that all new visitors (primarily students) will arrive too. Students who have already logged in (and are remembered) will not see this page unless they log out. This page features a slide show for what Peerwise is, giving students the option to find out more if they are interested. Four short icons and text summarises Peerwise's values and tells students what features that can expect from Peerwise's SQS. Previous experiences will encourage and convince students that Peerwise is a valuable tool. Several other facts and graphs will also support this. The design convention by most websites has the 'sign up and login' button at the top right, whereas information buttons are next to the slideshow. The purpose of this page is to introduce Peerwise to all visitors and to provide a pathway introduction to using the SQS.
+This page is the default page that all new visitors (primarily students) will arrive too. Students who have already logged in (and are remembered) will not see this page unless they log out. This page features a slide show, explaining what Peerwise is and giving students the option to find out more (if they are interested). Four short icons and text summarises Peerwise's values and tells students what features that can expect from Peerwise's SQS. The previous experiences will encourage and convince students that Peerwise is a valuable tool. Several other facts and graphs will also support this. The design convention by most websites has the 'sign up and login' button at the top right, whereas information buttons are next to the slideshow. The purpose of this page is to introduce Peerwise to all visitors and to provide a pathway introduction to using the SQS.
 
 ### Signup and Login Page
 
